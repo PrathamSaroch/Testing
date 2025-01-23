@@ -20,5 +20,6 @@ void display()
         obj.display();
         xyz obj1 = new xyz();
         obj1.display();
+        System.out.println("chuut mil jaye mx=za aa jaye");
     }
 }
